@@ -34,8 +34,6 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [WeFit](https://github.com/ayushsingh658/WeFit) | Interval timer app with animated UI, workout tracking & Google auth | React Native, Expo |
-| [Tech-fuel](https://github.com/infovishal01/Tech-fuel) | Tech tutorials & AI tools platform | Next.js |
 | [Portfolio](https://github.com/infovishal01/Portfolio-) | Personal portfolio website | HTML, CSS, JS |
 | [Swiggy](https://github.com/infovishal01/swiggy) | Food delivery app clone | React |
 | [Weather App](https://github.com/infovishal01/Weather-Project) | Weather forecast application | JavaScript |
