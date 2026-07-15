@@ -69,5 +69,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infovishal01&layout=compact&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=infovishal01&theme=tokyonight&hide_border=true)
 
-
 </div>
