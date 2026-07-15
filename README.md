@@ -1,52 +1,73 @@
-<h1 align="center">Hey, I'm Vishal Kumar</h1>
-<h3 align="center">Full-Stack Developer from Haryana, India</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-kumar-89160b254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/infovishal01"><img src="https://img.shields.io/github/followers/infovishal01?label=Followers&style=for-the-badge" /></a>
-</p>
+| ![Vishal Kumar — ASCII portrait](./portrait.svg) | <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vishal+Kumar;AI%2FLLM+Analyst+%40+Innodata;MERN+Stack+Developer;Building+MultiSolution+%F0%9F%9A%80" alt="Typing SVG" /> |
+|---|---|
 
----
+# Vishal Kumar
 
-### About Me
+**AI/LLM Analyst · Fullstack (MERN) Developer · Builder**
 
-- Building **WeFit** — a React Native interval timer app
-- Building **Tech-fuel** — a Next.js tech tutorial & AI tools platform
-- Solving problems on [LeetCode](https://github.com/infovishal01/Leetcode)
-- Currently exploring **Go** and **AI tooling**
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishalkumar.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishal--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-infovishal01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infovishal01)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blac" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Portfolio](https://github.com/infovishal01/Portfolio-) | Personal portfolio website | HTML, CSS, JS |
-| [Swiggy](https://github.com/infovishal01/swiggy) | Food delivery app clone | React |
-| [Weather App](https://github.com/infovishal01/Weather-Project) | Weather forecast application | JavaScript |
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infovishal01&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infovishal01&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infovishal01&style=flat-square" />
-</p>
+### 👋 About Me
+
+- 🔭 Analyst — **AI/LLM Practice** @ Innodata India, Noida
+- 🎓 B.Tech Computer Science, MMDU (2021–2025)
+- 🛠️ Building **MultiSolution** — a home services marketplace (MERN stack)
+- 🤖 Exploring Kafka + LLM + microservices architectures
+- 🌱 Currently learning Django (coming from a MERN background)
+- 💬 Ask me about React, Node.js, MongoDB, LLM tooling
+
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **MultiSolution** | Home services marketplace (Urban Company-style) — MERN monorepo, JWT auth, city-based routing |
+| **Kafka Order Pipeline** | Event-driven microservices (API Gateway, Orders, Payments, Inventory, Notifications) on Redpanda |
+| **TechFuel** | AI/tech learning platform — Next.js, TypeScript |
+| **Aria Voice Assistant** | Flask + Anthropic API voice assistant with Web Speech API + Google TTS |
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.svg)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovishal01&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infovishal01&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=infovishal01&theme=tokyonight&hide_border=true)
+
+
+</div>
