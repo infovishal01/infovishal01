@@ -57,7 +57,8 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.yml)
+![Snake animation](https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
 
