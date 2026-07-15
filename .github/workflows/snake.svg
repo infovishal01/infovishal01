@@ -1,4 +1,4 @@
-cat > .github/workflows/snake.yml << 'EOF'
+cat > .github/workflows/snake.svg << 'EOF'
 name: Generate Snake Animation
 
 on:
