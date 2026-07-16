@@ -20,10 +20,14 @@
       white-space: pre;
       animation: type 2s steps(13, end) 1s 1 normal both;
     }
-    @keyframes type {
-      from { clip-path: inset(0 100% 0 0); }
-      to { clip-path: inset(0 0 0 0); }
-    }
+  @keyframes type {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+  to {
+    clip-path: inset(0 0 0 0);
+  }
+}
   </style>
 
   <rect class="term-bg" x="0" y="0" width="496" height="554" rx="10"/>
