@@ -10,24 +10,6 @@
     .prompt { fill: #3fb950; font-size: 13px; }
     .user { fill: #58a6ff; font-size: 13px; }
     .whoami-out { fill: #e6edf3; font-size: 13px; font-weight: bold; }
-    .cursor { fill: #e6edf3; animation: blink 1s steps(1) infinite; }
-    @keyframes blink {
-      0%, 50% { opacity: 1; }
-      50.01%, 100% { opacity: 0; }
-    }
-    .typewriter {
-      overflow: hidden;
-      white-space: pre;
-      animation: type 2s steps(13, end) 1s 1 normal both;
-    }
-  @keyframes type {
-  from {
-    clip-path: inset(0 100% 0 0);
-  }
-  to {
-    clip-path: inset(0 0 0 0);
-  }
-}
   </style>
 
   <rect class="term-bg" x="0" y="0" width="496" height="554" rx="10"/>
@@ -46,8 +28,10 @@
   <text class="user" x="195" y="489">whoami</text>
 
   <text class="prompt" x="40" y="519">vishal@github:~$ </text>
-  <text class="whoami-out typewriter" x="195" y="519">Vishal Kumar</text>
-  <rect class="cursor" x="303" y="507" width="9" height="15" opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3s" fill="freeze"/>
+  <text class="whoami-out" x="195" y="519">Vishal Kumar</text>
+  
+  <!-- Blinking cursor using SMIL animation (GitHub compatible) -->
+  <rect x="303" y="507" width="9" height="15" fill="#e6edf3">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="0s"/>
   </rect>
 </svg>

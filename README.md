@@ -7,10 +7,7 @@
 
 **AI/LLM Analyst · Fullstack (MERN) Developer · Builder**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishalkumar.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishal--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-infovishal01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/infovishal01)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -58,7 +55,6 @@
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/infovishal01/infovishal01/output/github-contribution-grid-snake.svg" width="100%">
 
 </div>
 
