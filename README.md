@@ -62,8 +62,8 @@
 
 <div align="center">
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovishal01&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infovishal01&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=infovishal01&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infovishal01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infovishal01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=infovishal01&theme=radical&hide_border=true&background=0d1117&border=58a6ff&dates=ffffff)
 
 </div>
